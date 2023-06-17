@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Open Source Laravel Projects**
+- 🔭 I’m currently working on **Open Source Laravel, Next Projects**
 
 - 🌱 I’m currently learning **new technologies for professional Growth.**
 
