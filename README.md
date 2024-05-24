@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **superstar0601.dev@gmail.com**
 
-- 📄 Know about my experiences [I am Full Stack Developer with 8 Year’s experience in Professional Web Application, Full Stack Developer having over years experience in Website Development using PHP, Laravel, CodeIgniter, Cake PHP, Vue.JS, WordPress, Shopify and many more. I have creative thinking skills.]
+- 📄 Know about my experiences [I am Full Stack Developer with 8 Year’s experience in Professional Web Application, Full Stack Developer having over years experience in Website Development using PHP, Laravel, CodeIgniter,  JavaScript, TypeScript, Vue.JS, NextJs, NuxtJs and many more. I have creative thinking skills.]
 
 - ⚡ Fun fact **I love for help others**
 
