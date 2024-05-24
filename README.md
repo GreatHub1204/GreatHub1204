@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Super Star</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 </p>
-
-
-
-- 🔭 I’m currently working on **Open Source Laravel, Next Projects**
-
-- 🌱 I’m currently learning **new technologies for professional Growth.**
-
-- 👯 I’m looking to contributing on **Vue.JS, Laravel Projects**
-
-
-
-- 💬 Ask me about **Laravel, Vue.JS**
-
-- 📫 How to reach me **superstar0601.dev@gmail.com**
-
-
 - ⚡ Fun fact **I love for help others**
 
 
