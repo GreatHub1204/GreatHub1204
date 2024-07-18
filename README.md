@@ -147,7 +147,7 @@
 
 <br/>
 <p align="center">
-    <a href="https://github.com/abobakar-it/github-readme-stats"><img alt="GreatHub1204 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GreatHub1204&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+    <a href="https://github.com/GreatHub1204"><img alt="GreatHub1204 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GreatHub1204&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
     <a href="https://github.com/GreatHub1204"><img alt="abobakar-it Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatHub1204&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </p>
